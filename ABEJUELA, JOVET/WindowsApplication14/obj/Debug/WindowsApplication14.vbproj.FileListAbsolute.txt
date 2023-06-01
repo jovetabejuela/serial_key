@@ -1,0 +1,24 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form2.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+D:\_\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+D:\_\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+D:\_\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+D:\_\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+D:\_\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+D:\_\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+D:\_\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.xml
+D:\_\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+D:\_\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form1.resources
+D:\_\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form2.resources
+D:\_\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Resources.resources
+D:\_\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
